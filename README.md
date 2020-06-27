@@ -1,6 +1,6 @@
 # Network Security - DNS-SPOOF and firewalls
 
-This is a the final exercise of the Network Security course. 
+This is the final exercise of the Network Security course. 
 
 In this project i:
 
